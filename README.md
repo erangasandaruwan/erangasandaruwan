@@ -9,7 +9,7 @@
 | Development Tools |                                     |
 | CI/CD             |                                     |
 | Databases         |                                     |
-| Others            |                                     |
+| Others            | ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)                                     |
 
 ## About me 🤓
 I'm an experienced Software Engineer adept in cloud architectures and agile transformation. I have participated developing innovative solutions through research and development in major digital overhauls in complex environments, achieving significant improvements in system flexibility and performance.
