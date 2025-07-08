@@ -8,7 +8,7 @@
 | Cloud Platforms   |                                     |
 | Development Tools | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white
 ) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)                                      |
-| CI/CD             | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white
+| CI/CD             | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 )                                   |
 | Databases         |                                     |
 | Others            | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![Visual Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![MS Build](https://img.shields.io/badge/-MSBuild-512BD4?style=flat&logo=.net&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)                                     |
