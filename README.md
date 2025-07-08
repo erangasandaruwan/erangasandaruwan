@@ -4,7 +4,7 @@
 ## My technology stack 📋
 | Area              | Technologies                        |
 |-------------------|-------------------------------------|
-| Languages         | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET Core]("https://img.shields.io/badge/-.NET_Core-512BD4?style=flat&logo=.net&logoColor=white")
+| Languages         | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET Core]("https://img.shields.io/badge/-.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
 	<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python" style="max-width: 100%;"> 
 	<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" style="max-width: 100%;">
